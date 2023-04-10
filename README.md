@@ -5,13 +5,35 @@ It uses a variety of image processing techniques to extract the Sudoku grid and 
 An ANN model is also trained to predict the digits from an image on the MNIST data-set. This model can be used to verify the accuracy of the digits predicted by optical character recognition.
 
 Getting Started:
-1.Clone the Repository.
+
+
+1.Clone the Repository or download zip.
+
+`git clone` 
+ 
+
+2.Move to the Current directory
+
+`cd sudoku-solver`
+
 
 Prerequisites:
+
+
 1.Python 3.11+
+
 2.Open CV
+
 3.Tesseract-Ocr 
+
 4.Pytesseract
+
+
+
+How to Use:
+
+python sudoku.py
+
 
 Working:
 1.Original Sudoku:
