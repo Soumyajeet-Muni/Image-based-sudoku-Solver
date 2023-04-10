@@ -4,12 +4,14 @@ This application helps you to extract Sudoku from an image and solve the sudoku.
 It uses a variety of image processing techniques to extract the Sudoku grid and optical character recognition to identify the digits from the image.Finally a backtracking algorithm is used to solve the Sudoku.
 An ANN model is also trained to predict the digits from an image on the MNIST data-set. This model can be used to verify the accuracy of the digits predicted by optical character recognition.
 
+The ANN is pre trained and saved.It can be used if the tesseract "image to string conversion" does not work properly
+
 Getting Started:
 
 
 1.Clone the Repository or download zip.
 
-`git clone` 
+`git clone https://github.com/Soumyajeet-Muni/Image-based-sudoku-Solver.git` 
  
 
 2.Move to the Current directory
