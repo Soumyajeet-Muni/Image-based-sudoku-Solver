@@ -14,23 +14,52 @@ Prerequisites:
 4.Pytesseract
 
 Working:
-1.Original Sudoku
+1.Original Sudoku:
+
+
+
 ![image](https://user-images.githubusercontent.com/117106268/230973076-38bc0671-c24d-4e6b-aa1b-2bd64f6827b2.png)
 
 
-2.After Preprocessing and Extraction
+
+
+
+
+2.After Preprocessing and Extraction:
+
+
+
 ![image](https://user-images.githubusercontent.com/117106268/230973173-160e9a50-5e7e-4d46-b901-ff4db2cf49fe.png)
 
 
-3.Extraction of individual digits from the images 
+
+
+
+3.Extraction of individual digits from the images
+
+
+
 ![image](https://user-images.githubusercontent.com/117106268/230973296-67705695-8422-4f00-b5ca-fffdcf34bb04.png)
 
 
+
+
+
 4.Unsolved Sudoku Grid:
+
+
+
 ![image](https://user-images.githubusercontent.com/117106268/230973381-4a4164f5-7dcf-40f6-8fb7-02e496f859d2.png)
 
 
+
+
+
 5.Solution:
+
+
+
+
 ![image](https://user-images.githubusercontent.com/117106268/230973558-9f92a7bf-1736-4c71-9eca-c18172378c1d.png)
 
 
