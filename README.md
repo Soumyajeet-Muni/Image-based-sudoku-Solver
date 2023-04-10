@@ -34,7 +34,7 @@ Prerequisites:
 
 How to Use:
 
-python sudoku.py
+`python sudoku.py
 
 
 Working:
